@@ -1,4 +1,4 @@
-# Gravity Rush Prototype — Unreal Engine 5 Blueprint
+# Gravity Rush Prototype - Unreal Engine 5 Blueprint
 
 Directional gravity mechanic inspired by *Gravity Rush*, combined with a gravity-based attack. Built in Blueprint as part of an academic UML modelling project at HEAJ (Belgium).
 
